@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/DJYkJczWgwOxYzfg6+bgj2lw1HiE4teCgiVh1JXTMdteDux0ZcLIQB508ErXnQULLu/cPSMYJIV7uOhTw411Q==",
+  "dgSpecHash": "dRFKfMwGhPUMMaVDLQXn8lQiYh4asmDGHGFNJq1Yz+N86laPWG6NVPECHOIoJDZsYfhFIrj8akZ+eTFE+EdXFA==",
   "success": true,
-  "projectFilePath": "/home/runner/CSharp/main.csproj",
+  "projectFilePath": "/home/runner/Git/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
